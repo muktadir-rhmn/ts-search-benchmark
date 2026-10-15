@@ -1,0 +1,225 @@
+t=   0.00 ready | drag=False grab=False lock=False pending=True drawing=False timer=off frame=0/0 delay=400
+t=   0.21 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=0/0 delay=400
+t=   0.55 figure_enter_event b=None xy=(1782,542) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   0.99 motion b=None xy=(1780,542) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   1.30 motion b=None xy=(1337,1098) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   1.56 motion b=None xy=(855,754) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   1.86 motion b=None xy=(625,583) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   2.28 motion b=None xy=(383,759) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   2.59 motion b=None xy=(303,1002) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   2.84 motion b=None xy=(298,1132) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   3.09 motion b=None xy=(209,1172) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   3.38 button_press_event b=1 xy=(205,1195) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   3.39 motion b=1 xy=(205,1195) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   3.47 button_release_event b=1 xy=(205,1195) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   3.80 motion b=None xy=(206,1192) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   4.06 motion b=None xy=(278,1045) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   4.96 button_press_event b=1 xy=(282,1041) in=Axes | drag=False grab=True lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   5.16 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=0/0 delay=400
+t=   5.17 button_release_event b=1 xy=(282,1041) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   5.40 motion b=None xy=(282,1040) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   5.65 motion b=None xy=(279,843) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   5.91 motion b=None xy=(274,873) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   6.11 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=0/0 delay=400
+t=   6.12 button_release_event b=1 xy=(274,874) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   6.12 button_press_event b=1 xy=(274,874) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   6.60 motion b=None xy=(277,874) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   6.88 motion b=None xy=(616,845) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   7.29 motion b=None xy=(415,447) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   7.59 motion b=None xy=(365,538) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   7.92 motion b=None xy=(362,540) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   8.17 motion b=None xy=(348,477) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   8.24 button_press_event b=1 xy=(347,476) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   8.36 button_release_event b=1 xy=(347,476) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   8.88 motion b=None xy=(347,476) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=   9.33 motion b=None xy=(412,571) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=  10.16 button_press_event b=1 xy=(411,571) in=Axes | drag=False grab=True lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=  10.32 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=0/0 delay=400
+t=  10.33 motion b=None xy=(411,569) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=0/0 delay=400
+t=  10.56 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=0/0 delay=400
+t=  10.57 button_release_event b=1 xy=(411,571) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=on frame=0/115 delay=400
+t=  11.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=0/115 delay=400
+t=  11.48 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=1/115 delay=400
+t=  11.88 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=2/115 delay=400
+t=  12.30 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=3/115 delay=400
+t=  12.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=4/115 delay=400
+t=  13.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=5/115 delay=400
+t=  13.48 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=6/115 delay=400
+t=  13.90 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=7/115 delay=400
+t=  13.92 motion b=None xy=(75,207) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=8/115 delay=400
+t=  13.93 figure_leave_event b=None xy=(-9,135) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=8/115 delay=400
+t=  14.28 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=8/115 delay=400
+t=  14.29 figure_enter_event b=None xy=(14,17) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=9/115 delay=400
+t=  14.46 figure_leave_event b=None xy=(182,-7) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=9/115 delay=400
+t=  14.47 figure_enter_event b=None xy=(191,1) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=9/115 delay=400
+t=  14.48 motion b=None xy=(195,6) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=9/115 delay=400
+t=  14.68 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=9/115 delay=400
+t=  14.74 motion b=None xy=(281,40) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=10/115 delay=400
+t=  15.10 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=10/115 delay=400
+t=  15.11 motion b=None xy=(381,47) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=11/115 delay=400
+t=  15.36 motion b=None xy=(701,55) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=11/115 delay=400
+t=  15.48 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=11/115 delay=400
+t=  15.61 motion b=None xy=(541,82) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=12/115 delay=400
+t=  15.88 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=12/115 delay=400
+t=  15.89 motion b=None xy=(711,45) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=13/115 delay=400
+t=  16.14 motion b=None xy=(815,86) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=13/115 delay=400
+t=  16.27 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=13/115 delay=400
+t=  16.40 motion b=None xy=(870,86) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=14/115 delay=400
+t=  16.67 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=14/115 delay=400
+t=  16.68 motion b=None xy=(913,81) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=15/115 delay=400
+t=  16.94 motion b=None xy=(744,306) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=15/115 delay=400
+t=  17.05 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=15/115 delay=400
+t=  17.21 motion b=None xy=(628,478) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=on frame=16/115 delay=400
+t=  17.49 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=16/115 delay=400
+t=  17.89 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=17/115 delay=400
+t=  18.29 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=18/115 delay=400
+t=  18.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=19/115 delay=400
+t=  19.08 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=20/115 delay=400
+t=  19.50 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=21/115 delay=400
+t=  19.88 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=22/115 delay=400
+t=  20.28 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=23/115 delay=400
+t=  20.70 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=24/115 delay=400
+t=  21.10 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=25/115 delay=400
+t=  21.49 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=26/115 delay=400
+t=  21.86 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=27/115 delay=400
+t=  22.29 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=28/115 delay=400
+t=  22.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=29/115 delay=400
+t=  23.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=30/115 delay=400
+t=  23.50 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=31/115 delay=400
+t=  23.88 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=32/115 delay=400
+t=  24.30 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=33/115 delay=400
+t=  24.66 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=34/115 delay=400
+t=  25.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=35/115 delay=400
+t=  25.50 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=36/115 delay=400
+t=  25.88 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=37/115 delay=400
+t=  26.29 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=38/115 delay=400
+t=  26.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=39/115 delay=400
+t=  27.10 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=40/115 delay=400
+t=  27.46 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=41/115 delay=400
+t=  27.87 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=42/115 delay=400
+t=  28.29 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=43/115 delay=400
+t=  28.71 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=44/115 delay=400
+t=  29.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=45/115 delay=400
+t=  29.50 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=46/115 delay=400
+t=  29.89 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=47/115 delay=400
+t=  30.30 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=48/115 delay=400
+t=  30.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=49/115 delay=400
+t=  31.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=50/115 delay=400
+t=  31.46 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=51/115 delay=400
+t=  31.91 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=52/115 delay=400
+t=  32.30 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=53/115 delay=400
+t=  32.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=54/115 delay=400
+t=  33.10 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=55/115 delay=400
+t=  33.50 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=56/115 delay=400
+t=  33.89 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=57/115 delay=400
+t=  34.28 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=58/115 delay=400
+t=  34.70 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=59/115 delay=400
+t=  35.11 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=60/115 delay=400
+t=  35.49 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=61/115 delay=400
+t=  35.90 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=62/115 delay=400
+t=  36.28 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=63/115 delay=400
+t=  36.68 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=64/115 delay=400
+t=  37.10 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=65/115 delay=400
+t=  37.49 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=66/115 delay=400
+t=  37.89 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=67/115 delay=400
+t=  38.26 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=68/115 delay=400
+t=  38.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=69/115 delay=400
+t=  39.11 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=70/115 delay=400
+t=  39.48 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=71/115 delay=400
+t=  39.90 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=72/115 delay=400
+t=  40.28 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=73/115 delay=400
+t=  40.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=74/115 delay=400
+t=  41.11 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=75/115 delay=400
+t=  41.48 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=76/115 delay=400
+t=  41.87 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=77/115 delay=400
+t=  42.28 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=78/115 delay=400
+t=  42.68 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=79/115 delay=400
+t=  43.09 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=80/115 delay=400
+t=  43.51 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=81/115 delay=400
+t=  43.86 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=82/115 delay=400
+t=  44.29 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=83/115 delay=400
+t=  44.71 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=84/115 delay=400
+t=  45.10 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=85/115 delay=400
+t=  45.50 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=86/115 delay=400
+t=  45.88 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=87/115 delay=400
+t=  45.89 motion b=None xy=(356,706) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=88/115 delay=400
+t=  46.14 motion b=None xy=(232,562) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=on frame=88/115 delay=400
+t=  46.29 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=88/115 delay=400
+t=  46.53 motion b=None xy=(197,373) in=none | drag=False grab=False lock=False pending=False drawing=False timer=on frame=89/115 delay=400
+t=  46.69 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=89/115 delay=400
+t=  46.79 motion b=None xy=(178,345) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=on frame=90/115 delay=400
+t=  47.08 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=90/115 delay=400
+t=  47.09 button_press_event b=1 xy=(176,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=91/115 delay=400
+t=  47.09 motion b=1 xy=(176,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=91/115 delay=400
+t=  47.31 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=91/115 delay=450
+t=  47.39 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=91/115 delay=650
+t=  47.39 motion b=1 xy=(242,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=91/115 delay=650
+t=  47.53 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=91/115 delay=700
+t=  47.60 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=91/115 delay=750
+t=  47.68 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=91/115 delay=800
+t=  47.69 motion b=1 xy=(283,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=91/115 delay=800
+t=  48.19 button_release_event b=1 xy=(283,347) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=on frame=91/115 delay=800
+t=  48.54 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=91/115 delay=800
+t=  49.35 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=92/115 delay=800
+t=  50.14 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=93/115 delay=800
+t=  50.95 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=94/115 delay=800
+t=  51.07 button_press_event b=1 xy=(283,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=95/115 delay=800
+t=  51.17 motion b=1 xy=(282,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=95/115 delay=800
+t=  51.33 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=95/115 delay=750
+t=  51.43 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=95/115 delay=500
+t=  51.44 motion b=1 xy=(193,347) in=Axes | drag=True grab=True lock=False pending=True drawing=False timer=on frame=95/115 delay=450
+t=  51.53 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=95/115 delay=450
+t=  51.69 motion b=1 xy=(191,347) in=Axes | drag=True grab=True lock=False pending=False drawing=False timer=on frame=95/115 delay=450
+t=  52.02 draw_event | drag=True grab=True lock=False pending=False drawing=True timer=on frame=95/115 delay=450
+t=  52.02 button_release_event b=1 xy=(191,347) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=on frame=96/115 delay=450
+t=  52.47 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=96/115 delay=450
+t=  52.89 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=97/115 delay=450
+t=  53.36 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=98/115 delay=450
+t=  53.82 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=99/115 delay=450
+t=  54.24 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=100/115 delay=450
+t=  54.71 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=101/115 delay=450
+t=  55.17 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=102/115 delay=450
+t=  55.61 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=103/115 delay=450
+t=  56.08 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=104/115 delay=450
+t=  56.49 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=105/115 delay=450
+t=  56.95 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=106/115 delay=450
+t=  57.42 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=107/115 delay=450
+t=  57.85 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=108/115 delay=450
+t=  58.31 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=109/115 delay=450
+t=  58.75 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=110/115 delay=450
+t=  59.20 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=111/115 delay=450
+t=  59.66 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=112/115 delay=450
+t=  60.12 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=113/115 delay=450
+t=  60.55 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=on frame=114/115 delay=450
+t=  61.04 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=115/115 delay=450
+t=  61.12 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=115/115 delay=450
+t=  78.81 motion b=None xy=(187,358) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  79.06 motion b=None xy=(53,503) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  79.32 motion b=None xy=(275,677) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  79.58 motion b=None xy=(282,676) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  80.10 motion b=None xy=(278,677) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  80.36 motion b=None xy=(246,681) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  80.61 motion b=None xy=(225,675) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  80.87 motion b=None xy=(224,684) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=  81.17 motion b=None xy=(238,681) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 352.52 motion b=None xy=(246,681) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 352.78 motion b=None xy=(182,1082) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.04 button_press_event b=1 xy=(241,1024) in=Axes | drag=False grab=True lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.05 motion b=1 xy=(241,1025) in=Axes | drag=False grab=True lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.27 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=115/115 delay=450
+t= 353.28 button_release_event b=1 xy=(241,1025) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.41 motion b=None xy=(241,1024) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.66 motion b=None xy=(232,987) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.81 draw_event | drag=False grab=False lock=False pending=False drawing=True timer=off frame=115/115 delay=450
+t= 353.82 button_release_event b=1 xy=(231,987) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 353.82 button_press_event b=1 xy=(231,987) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 354.48 motion b=None xy=(232,987) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 354.81 button_press_event b=1 xy=(790,911) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 354.82 button_release_event b=1 xy=(790,911) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 656.10 motion b=None xy=(776,911) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 958.09 motion b=None xy=(750,740) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 958.35 motion b=None xy=(1345,853) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t= 982.74 figure_leave_event b=None xy=(1383,849) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=2918.87 figure_enter_event b=None xy=(1383,849) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=2921.20 motion b=None xy=(808,881) in=Axes | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
+t=2921.21 figure_leave_event b=None xy=(-7,921) in=none | drag=False grab=False lock=False pending=False drawing=False timer=off frame=115/115 delay=450
